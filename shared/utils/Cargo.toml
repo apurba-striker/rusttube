@@ -1,0 +1,24 @@
+[package]
+name = "utils"
+version.workspace = true
+authors.workspace = true
+edition.workspace = true
+license.workspace = true
+description.workspace = true
+
+[lints]
+workspace = true
+
+[dependencies]
+chrono = { workspace = true }
+csv = { workspace = true }
+gloo = { workspace = true }
+humantime = { workspace = true }
+reqwasm = { workspace = true }
+ron = { workspace = true }
+rustytube-error = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+tauri-sys = { workspace = true }
+wasm-bindgen = { workspace = true }
+web-sys = { workspace = true }

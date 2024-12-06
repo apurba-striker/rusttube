@@ -1,0 +1,27 @@
+[package]
+name = "invidious"
+version.workspace = true
+authors.workspace = true
+edition.workspace = true
+license.workspace = true
+description.workspace = true
+
+[lints]
+workspace = true
+
+[dependencies]
+csv = { workspace = true }
+futures = { workspace = true }
+gloo = { workspace = true }
+html-escape = { workspace = true }
+leptos = { workspace = true }
+leptos_router = { workspace = true }
+reqwasm = { workspace = true }
+ron = { workspace = true }
+rustytube-error = { workspace = true }
+serde = { workspace = true }
+serde-xml-rs = { workspace = true }
+serde_json = { workspace = true }
+utils = { workspace = true }
+wasm-bindgen = { workspace = true }
+web-sys = { workspace = true }

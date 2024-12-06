@@ -1,0 +1,94 @@
+[general]
+load_more = "Voir plus"
+
+[header]
+back = "Retour"
+forward = "Suivant"
+force_reload = "Recharger"
+search_placeholder = "Tapez votre recherche ici..."
+search = "Rechercher"
+instances = "Serveurs"
+themes = "Thèmes"
+dark_themes = "Thèmes sombres"
+light_themes = "Thèmes clairs"
+
+[sidebar]
+subscriptions = "Abonnements"
+trending = "Tendances"
+popular = "Populaire"
+playlists = "Listes de lecture"
+settings = "Préférences"
+donate = "Donner"
+
+[subscriptions]
+import_subscriptions = "Importer vos abonnements"
+tutorial = "Tutoriel"
+
+[trending]
+trending = "Tendances"
+all = "Tout"
+music = "Musique"
+gaming = "Jeux vidéo"
+movies = "Films"
+
+[settings]
+data = "Data"
+subscriptions = "Abonnements"
+playlists = "Listes de lecture"
+manage = "Gérer"
+import = "Importer"
+delete_all = "Supprimer tout"
+export = "Exporter"
+config = "Config"
+locale = "Locale"
+language = "Langue"
+trending_region = "Pays pour les tendances"
+themes = "Thèmes"
+autoplay = "Lecture auto"
+
+[settings.sponsorblock]
+enabled = "Activé"
+sponsor = "Sponsor"
+selfpromo = "Autopromotion"
+intro = "Intro"
+outro = "Conclusion"
+interaction = "Interaction"
+filler = "Bouche-trou"
+preview = "Récap"
+offtopic_music = "Musique hors sujet"
+
+[playlist]
+shuffle = "Mélanger la liste de lecture"
+loop = "Liste de lecture en boucle"
+videos = "%{video_count} vidéos"
+
+[video]
+loading = "Chargement..."
+
+[video.controls]
+play = "Lire"
+pause = "Pause"
+volume = "Volume"
+formats = "Formats"
+full_window = "Fenêtre"
+fullscreen = "Plein écran"
+playback_speed = "Vitesse de lecture"
+captions = "Sous-titres"
+autoplay = "Lecture auto"
+
+[video.info]
+share = "Partager"
+download = "Télécharger"
+recommended = "Recommandé"
+views = "%{view_count} vues"
+
+[channel]
+subscribe = "S'abonner"
+subscribed = "Se désabonner"
+videos = "Vidéos"
+playlists = "Listes de lecture"
+shorts = "Shorts"
+livestreams = "Livestreams"
+
+[sponsorblock]
+skipped = "SponsorBlock segment ignoré."
